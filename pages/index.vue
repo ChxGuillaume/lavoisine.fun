@@ -20,8 +20,7 @@
       </v-avatar>
       <v-card-title class="d-block my-5 text-center text-h2">Good job Julien!</v-card-title>
       <v-card-subtitle class="d-block text-center text-h4">
-        You succeeded with <span class="font-italic">la voisine
-      </span>.
+        You succeeded with <span class="font-italic">la voisine</span>.
       </v-card-subtitle>
       <canvas id="confetti" ref="confetti"/>
     </v-card>
